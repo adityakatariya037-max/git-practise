@@ -5,5 +5,11 @@
 **team members**
 -Aditya katariya
 -kashyap
--ayush
+-ayush  
+
+
+***tech stack ***
+html 
+css 
+js 
  
