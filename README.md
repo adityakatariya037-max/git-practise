@@ -11,7 +11,7 @@
 
 *tech stack*
 
-1.html
-2.css 
-3.js 
+1.html  
+2.css  
+3.js   
  
