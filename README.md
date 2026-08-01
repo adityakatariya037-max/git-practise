@@ -1,5 +1,6 @@
 # git-practise
-####this is a small repo i created for my small works
+
+#### this is a small repo i created for my small works
 
 
 **team members**
@@ -10,7 +11,7 @@
 
 *tech stack*
 
-html 
-css 
-js 
+1.html 
+2.css 
+3.js 
  
