@@ -3,12 +3,13 @@
 
 
 **team members**
--Aditya katariya
--kashyap
--ayush  
+- Aditya katariya
+- kashyap
+- ayush  
 
 
-***tech stack ***
+*tech stack*
+
 html 
 css 
 js 
